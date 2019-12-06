@@ -1,4 +1,5 @@
-*.rosinstall*
+.*
+!.gitignore
 # Specific Files #
 ##################
 segmapper/demonstration_files
